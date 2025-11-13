@@ -5,7 +5,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-color: #ffffff;
-    color: purple;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ body {
 
 /* Style for big yellow text */
 .big-green {
-    color: purple;
+    color: black;
     font-size: 5em;
     font-weight: bold;
     text-align: center;
