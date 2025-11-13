@@ -12,9 +12,9 @@ body {
     min-height: 100vh;
 }
 
-/* Style for big red text */
+/* Style for big yellow text */
 .big-green {
-    color: red;
+    color: yellow;
     font-size: 5em;
     font-weight: bold;
     text-align: center;
@@ -33,3 +33,4 @@ body {
         font-size: 2em;
     }
 }
+
